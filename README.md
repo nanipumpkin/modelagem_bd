@@ -1,2 +1,2 @@
 # modelagem_bd
-Database modeling exercises
+Database modeling exercises using MySQL Workbench
